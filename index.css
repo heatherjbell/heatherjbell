@@ -30,3 +30,23 @@ h3 {
     font-weight: bold;
     font-size: 1em;
 }
+
+/* unvisited link */
+a:link {
+    color: purple;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: blue;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: green;
+  }
+  
+  /* selected link */
+  a:active {
+    color: rgb(132, 0, 255);
+  }
